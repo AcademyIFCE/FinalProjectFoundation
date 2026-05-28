@@ -27,6 +27,3 @@ xcuserdata/
 # =========================
 .build/
 .swiftpm/
-
-# Swift Package Manager
-Packages/
